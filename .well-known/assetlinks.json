@@ -1,0 +1,17 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "online.kutuphanem.app",
+      "sha256_cert_fingerprints": [
+        "E7:64:38:D7:24:C3:0E:2E:AE:99:86:FC:39:73:8E:6C:DD:0D:52:24:A7:2E:66:F5:15:0E:1D:33:96:18:AC:D7",
+        "C3:CD:BE:8C:79:00:7D:70:D7:EE:3A:C2:8A:1C:79:9F:E6:BB:24:9F:6B:A6:57:FD:53:C8:91:12:EC:C8:F9:D2",
+        "B1:B7:B6:DD:4C:D4:19:A8:79:68:75:8F:55:C7:1E:BA:A2:FA:AA:B9:ED:76:10:5C:18:D8:B6:C0:C8:AB:6E:DF"
+      ]
+    }
+  }
+]
